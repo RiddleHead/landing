@@ -1,0 +1,43 @@
+.pc{
+	display: block;
+}
+.mo{
+	display: none;
+}
+
+@media all and (max-width:750px){
+	.pc{
+		display: none;
+	}
+	.mo{
+		display: block;
+	}
+}
+
+/* font */
+@font-face {
+  font-family: "DungGeunMo";
+  src: url("./fonts/DungGeunMo.woff") format("woff");
+}
+
+@font-face {
+  font-family: "NeoDunggeunmo Pro";
+  src: url('./fonts/neodgm.woff') format("woff");
+}
+
+body {
+  margin: 0;
+  font-family: 'NeoDunggeunmo Pro', 'DungGeunMo', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+  
