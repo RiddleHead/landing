@@ -22,7 +22,7 @@ function Router() {
 
   return (
     <> 
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <ScrollTopBehaviour />
       <Routes>
         <Route exact path='/' element={<Home />} />
