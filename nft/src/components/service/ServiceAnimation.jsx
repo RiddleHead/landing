@@ -35,7 +35,7 @@ const ServiceAnimation = () => {
 
       <div className="roadmap_tree" style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/service/rmbg_tree.png"
+              "img/service/rmbg_tree.png"
             })`}}>
       <ul>
         <li>
@@ -75,7 +75,7 @@ const ServiceAnimation = () => {
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            process.env.PUBLIC_URL + "img/service/1.jpg"
+                            "img/service/1.jpg"
                           })`,
                         }}
                       ></div>
@@ -170,7 +170,7 @@ const ServiceAnimation = () => {
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            process.env.PUBLIC_URL + "img/service/2.jpg"
+                            "img/service/2.jpg"
                           })`,
                         }}
                       ></div>
@@ -256,7 +256,7 @@ const ServiceAnimation = () => {
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            process.env.PUBLIC_URL + "img/service/3.jpg"
+                            "img/service/3.jpg"
                           })`,
                         }}
                       ></div>
@@ -343,7 +343,7 @@ const ServiceAnimation = () => {
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            process.env.PUBLIC_URL + "img/service/4.jpg"
+                            "img/service/4.jpg"
                           })`,
                         }}
                       ></div>
@@ -425,7 +425,7 @@ const ServiceAnimation = () => {
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            process.env.PUBLIC_URL + "img/service/4.jpg"
+                            "img/service/4.jpg"
                           })`,
                         }}
                       ></div>
@@ -515,7 +515,7 @@ const ServiceAnimation = () => {
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            process.env.PUBLIC_URL + "img/service/4.jpg"
+                            "img/service/4.jpg"
                           })`,
                         }}
                       ></div>
@@ -565,7 +565,7 @@ const ServiceAnimation = () => {
 
     <div className="roadmap_tree-mobile" style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/service/rmbg_tree_m.png"
+              "img/service/rmbg_tree_m.png"
             })`}}>
       <ul>
         <li>
@@ -605,7 +605,7 @@ const ServiceAnimation = () => {
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            process.env.PUBLIC_URL + "img/service/1.jpg"
+                            "img/service/1.jpg"
                           })`,
                         }}
                       ></div>
@@ -692,7 +692,7 @@ const ServiceAnimation = () => {
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            process.env.PUBLIC_URL + "img/service/2.jpg"
+                            "img/service/2.jpg"
                           })`,
                         }}
                       ></div>
@@ -778,7 +778,7 @@ const ServiceAnimation = () => {
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            process.env.PUBLIC_URL + "img/service/3.jpg"
+                            "img/service/3.jpg"
                           })`,
                         }}
                       ></div>
@@ -864,7 +864,7 @@ const ServiceAnimation = () => {
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            process.env.PUBLIC_URL + "img/service/4.jpg"
+                            "img/service/4.jpg"
                           })`,
                         }}
                       ></div>
@@ -946,7 +946,7 @@ const ServiceAnimation = () => {
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            process.env.PUBLIC_URL + "img/service/4.jpg"
+                            "img/service/4.jpg"
                           })`,
                         }}
                       ></div>
@@ -1028,7 +1028,7 @@ const ServiceAnimation = () => {
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            process.env.PUBLIC_URL + "img/service/4.jpg"
+                            "img/service/4.jpg"
                           })`,
                         }}
                       ></div>

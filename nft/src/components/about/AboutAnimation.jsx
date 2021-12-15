@@ -13,7 +13,7 @@ const AboutAnimation = () => {
             data-aos-duration="1200"
             style={{
               backgroundImage: `url(${
-                process.env.PUBLIC_URL + "img/about/3.jpg"
+                "img/about/3.jpg"
               })`,
             }}
           ></div>

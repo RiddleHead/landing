@@ -33,12 +33,12 @@ const Home = () => {
 
       <div className="background-group" style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/service/rmbg_pc.png"
+              "img/service/rmbg_pc.png"
             })`,
           }}>
         <div className="roadmap_star" style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/service/rmbg_star.gif"
+              "img/service/rmbg_star.gif"
             })`,
           }}>
       {/* ABOUT */}

@@ -60,7 +60,7 @@ const Service = () => {
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            process.env.PUBLIC_URL + "img/service/1.jpg"
+                            "img/service/1.jpg"
                           })`,
                         }}
                       ></div>
@@ -160,7 +160,7 @@ const Service = () => {
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            process.env.PUBLIC_URL + "img/service/2.jpg"
+                            "img/service/2.jpg"
                           })`,
                         }}
                       ></div>
@@ -261,7 +261,7 @@ const Service = () => {
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            process.env.PUBLIC_URL + "img/service/3.jpg"
+                            "img/service/3.jpg"
                           })`,
                         }}
                       ></div>
@@ -362,7 +362,7 @@ const Service = () => {
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            process.env.PUBLIC_URL + "img/service/4.jpg"
+                            "img/service/4.jpg"
                           })`,
                         }}
                       ></div>

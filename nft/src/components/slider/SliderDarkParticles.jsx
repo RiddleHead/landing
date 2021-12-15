@@ -101,7 +101,7 @@ const SliderDarkParticles = () => {
           className="image"
           style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/slider/9.jpg"
+              "img/slider/9.jpg"
             })`,
           }}
         ></div>

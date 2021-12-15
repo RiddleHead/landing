@@ -216,7 +216,7 @@ const SliderDarkBubble = () => {
           className="image"
           style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/slider/2.jpg"
+              "img/slider/2.jpg"
             })`,
           }}
         ></div>

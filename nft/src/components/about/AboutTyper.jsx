@@ -14,7 +14,7 @@ const AboutTyper = () => {
             data-aos-duration="1200"
             style={{
               backgroundImage: `url(${
-                process.env.PUBLIC_URL + "img/about/6.jpg"
+                "img/about/6.jpg"
               })`,
             }}
           ></div>

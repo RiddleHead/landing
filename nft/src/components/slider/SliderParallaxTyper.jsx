@@ -15,7 +15,7 @@ const SliderParallaxTyper = () => {
               className="image"
               style={{
                 backgroundImage: `url(${
-                  process.env.PUBLIC_URL + "img/slider/10.jpg"
+                  "img/slider/10.jpg"
                 })`,
               }}
             ></div>

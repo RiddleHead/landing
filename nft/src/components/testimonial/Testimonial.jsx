@@ -55,7 +55,7 @@ export default function SimpleSlider() {
                 className="main"
                 style={{
                   backgroundImage: `url(${
-                    process.env.PUBLIC_URL + `img/testimonials/${val.img}.jpg`
+                    `img/testimonials/${val.img}.jpg`
                   })`,
                 }}
               ></div>

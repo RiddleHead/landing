@@ -31,7 +31,7 @@ const Blog = () => {
                   className="main"
                   style={{
                     backgroundImage: `url(${
-                      process.env.PUBLIC_URL + "img/news/1.jpg"
+                      "img/news/1.jpg"
                     })`,
                   }}
                 ></div>
@@ -70,7 +70,7 @@ const Blog = () => {
                           className="main"
                           style={{
                             backgroundImage: `url(${
-                              process.env.PUBLIC_URL + "img/news/1.jpg"
+                              "img/news/1.jpg"
                             })`,
                           }}
                         ></div>
@@ -167,7 +167,7 @@ const Blog = () => {
                   className="main"
                   style={{
                     backgroundImage: `url(${
-                      process.env.PUBLIC_URL + "img/news/2.jpg"
+                      "img/news/2.jpg"
                     })`,
                   }}
                 ></div>
@@ -205,7 +205,7 @@ const Blog = () => {
                           className="main"
                           style={{
                             backgroundImage: `url(${
-                              process.env.PUBLIC_URL + "img/news/2.jpg"
+                              "img/news/2.jpg"
                             })`,
                           }}
                         ></div>
@@ -298,7 +298,7 @@ const Blog = () => {
                   className="main"
                   style={{
                     backgroundImage: `url(${
-                      process.env.PUBLIC_URL + "img/news/3.jpg"
+                      "img/news/3.jpg"
                     })`,
                   }}
                 ></div>
@@ -337,7 +337,7 @@ const Blog = () => {
                           className="main"
                           style={{
                             backgroundImage: `url(${
-                              process.env.PUBLIC_URL + "img/news/3.jpg"
+                              "img/news/3.jpg"
                             })`,
                           }}
                         ></div>

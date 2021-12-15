@@ -11,7 +11,7 @@ const SliderDark = () => {
           className="image"
           style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/slider/8.jpg"
+              "img/slider/8.jpg"
             })`,
           }}
         ></div>

@@ -12,7 +12,7 @@ const SliderAnimation = () => {
           className="image"
           style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/slider/3.jpg"
+              "img/slider/3.jpg"
             })`,
           }}
         ></div>

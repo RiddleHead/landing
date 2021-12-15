@@ -14,7 +14,7 @@ const SliderTyper = () => {
               className="image"
               style={{
                 backgroundImage: `url(${
-                  process.env.PUBLIC_URL + "img/slider/11.jpg"
+                  "img/slider/11.jpg"
                 })`,
               }}
             ></div>

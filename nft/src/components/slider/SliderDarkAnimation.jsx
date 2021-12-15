@@ -41,7 +41,7 @@ const SliderDarkAnimation = () => {
           className="image bg-pc"
           style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/slider/7.png"
+              "img/slider/7.png"
             })`,
           }}
         ></div>
@@ -49,7 +49,7 @@ const SliderDarkAnimation = () => {
           className="image bg-m"
           style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/slider/7_m.png"
+              "img/slider/7_m.png"
             })`,
           }}
         ></div> 
@@ -57,7 +57,7 @@ const SliderDarkAnimation = () => {
           className="image bg-pc"
           style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/slider/7-2.png"
+              "img/slider/7-2.png"
             })`,
           }}
         ></div>
@@ -71,7 +71,7 @@ const SliderDarkAnimation = () => {
           className="image bg-m"
           style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/slider/7-2_m.png"
+              "img/slider/7-2_m.png"
             })`,
           }}
         ></div>
@@ -79,7 +79,7 @@ const SliderDarkAnimation = () => {
             id="imageAnim2" 
             style={{
               backgroundImage: `url(${
-                process.env.PUBLIC_URL + "img/slider/char"+rand+".gif"
+                "img/slider/char"+rand+".gif"
               })`,
             }} 
             ></div>
@@ -87,7 +87,7 @@ const SliderDarkAnimation = () => {
             id="imageAnim2" 
             style={{
               backgroundImage: `url(${
-                process.env.PUBLIC_URL + "img/slider/char"+rand+"_m.gif"
+                "img/slider/char"+rand+"_m.gif"
               })`,
             }} 
             ></div>
@@ -95,7 +95,7 @@ const SliderDarkAnimation = () => {
           className="image bg-pc"
           style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/slider/7-3.png"
+              "img/slider/7-3.png"
             })`,
           }}
         ></div>
@@ -103,7 +103,7 @@ const SliderDarkAnimation = () => {
           className="image bg-m"
           style={{
             backgroundImage: `url(${
-              process.env.PUBLIC_URL + "img/slider/7-3_m.png"
+              "img/slider/7-3_m.png"
             })`,
           }}
         ></div>

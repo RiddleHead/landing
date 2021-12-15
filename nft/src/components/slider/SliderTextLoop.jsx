@@ -11,7 +11,7 @@ const SliderTextLoop = () => {
             className="image"
             style={{
               backgroundImage: `url(${
-                process.env.PUBLIC_URL + "img/slider/5.jpg"
+                "img/slider/5.jpg"
               })`,
             }}
           ></div>
