@@ -25,8 +25,8 @@ function Router() {
     <BrowserRouter basename={process.env.PUBLIC_URL}>
       <ScrollTopBehaviour />
       <Routes>
-        <Route basename={process.env.PUBLIC_URL} exact path='/' element={<Home />} />
-        <Route basename={process.env.PUBLIC_URL} path='*' element={<NotFound />} />
+        <Route exact path='/' element={<Home />} />
+        <Route path='*' element={<NotFound />} />
       </Routes>
     </BrowserRouter>
     </>
