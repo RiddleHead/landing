@@ -62,7 +62,7 @@ const ServiceAnimation = () => {
           >
             <div className="beny_tm_modalbox_service">
               <button className="close-modal" onClick={toggleModalOne}>
-                <img src="/img/svg/cancel.svg" alt="close icon" />
+                <img src="img/svg/cancel.svg" alt="close icon" />
               </button>
               {/* End close icon */}
 
@@ -157,7 +157,7 @@ const ServiceAnimation = () => {
           >
             <div className="beny_tm_modalbox_service">
               <button className="close-modal" onClick={toggleModalTwo}>
-                <img src="/img/svg/cancel.svg" alt="close icon" />
+                <img src="img/svg/cancel.svg" alt="close icon" />
               </button>
               {/* End close icon */}
 
@@ -243,7 +243,7 @@ const ServiceAnimation = () => {
           >
             <div className="beny_tm_modalbox_service">
               <button className="close-modal" onClick={toggleModalThree}>
-                <img src="/img/svg/cancel.svg" alt="close icon" />
+                <img src="img/svg/cancel.svg" alt="close icon" />
               </button>
               {/* End close icon */}
 
@@ -330,7 +330,7 @@ const ServiceAnimation = () => {
           >
             <div className="beny_tm_modalbox_service">
               <button className="close-modal" onClick={toggleModalFour}>
-                <img src="/img/svg/cancel.svg" alt="close icon" />
+                <img src="img/svg/cancel.svg" alt="close icon" />
               </button>
               {/* End close icon */}
 
@@ -412,7 +412,7 @@ const ServiceAnimation = () => {
           >
             <div className="beny_tm_modalbox_service">
               <button className="close-modal" onClick={toggleModalFive}>
-                <img src="/img/svg/cancel.svg" alt="close icon" />
+                <img src="img/svg/cancel.svg" alt="close icon" />
               </button>
               {/* End close icon */}
 
@@ -502,7 +502,7 @@ const ServiceAnimation = () => {
           >
             <div className="beny_tm_modalbox_service">
               <button className="close-modal" onClick={toggleModalSix}>
-                <img src="/img/svg/cancel.svg" alt="close icon" />
+                <img src="img/svg/cancel.svg" alt="close icon" />
               </button>
               {/* End close icon */}
 
@@ -592,7 +592,7 @@ const ServiceAnimation = () => {
           >
             <div className="beny_tm_modalbox_service">
               <button className="close-modal" onClick={toggleModalOne}>
-                <img src="/img/svg/cancel.svg" alt="close icon" />
+                <img src="img/svg/cancel.svg" alt="close icon" />
               </button>
               {/* End close icon */}
 
@@ -679,7 +679,7 @@ const ServiceAnimation = () => {
           >
             <div className="beny_tm_modalbox_service">
               <button className="close-modal" onClick={toggleModalTwo}>
-                <img src="/img/svg/cancel.svg" alt="close icon" />
+                <img src="img/svg/cancel.svg" alt="close icon" />
               </button>
               {/* End close icon */}
 
@@ -765,7 +765,7 @@ const ServiceAnimation = () => {
           >
             <div className="beny_tm_modalbox_service">
               <button className="close-modal" onClick={toggleModalThree}>
-                <img src="/img/svg/cancel.svg" alt="close icon" />
+                <img src="img/svg/cancel.svg" alt="close icon" />
               </button>
               {/* End close icon */}
 
@@ -851,7 +851,7 @@ const ServiceAnimation = () => {
           >
             <div className="beny_tm_modalbox_service">
               <button className="close-modal" onClick={toggleModalFour}>
-                <img src="/img/svg/cancel.svg" alt="close icon" />
+                <img src="img/svg/cancel.svg" alt="close icon" />
               </button>
               {/* End close icon */}
 
@@ -933,7 +933,7 @@ const ServiceAnimation = () => {
           >
             <div className="beny_tm_modalbox_service">
               <button className="close-modal" onClick={toggleModalFive}>
-                <img src="/img/svg/cancel.svg" alt="close icon" />
+                <img src="img/svg/cancel.svg" alt="close icon" />
               </button>
               {/* End close icon */}
 
@@ -1015,7 +1015,7 @@ const ServiceAnimation = () => {
           >
             <div className="beny_tm_modalbox_service">
               <button className="close-modal" onClick={toggleModalSix}>
-                <img src="/img/svg/cancel.svg" alt="close icon" />
+                <img src="img/svg/cancel.svg" alt="close icon" />
               </button>
               {/* End close icon */}
 

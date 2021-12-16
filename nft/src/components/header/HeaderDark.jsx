@@ -39,7 +39,7 @@ const Header = () => {
                 items={[
                   "home",
                   "about",
-                  "loadmap",
+                  "roadmap",
                   "team",
                   "link",
                 ]}
@@ -59,9 +59,9 @@ const Header = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#loadmap">
-                    <span className="first">Loadmap</span>
-                    <span className="second">Loadmap</span>
+                  <a href="#roadmap">
+                    <span className="first">Roadmap</span>
+                    <span className="second">Roadmap</span>
                   </a>
                 </li>
                 <li>
@@ -94,7 +94,7 @@ const Header = () => {
       <div className="mobile-menu-wrapper">
         <Scrollspy
           className="mobile_menu-icon"
-          items={["home", "about", "loadmap", "team", "link"]}
+          items={["home", "about", "roadmap", "team", "link"]}
           currentClassName="current"
           offset={-65}
         >
@@ -111,9 +111,9 @@ const Header = () => {
             </a>
           </li>
           <li>
-            <a href="#loadmap">
+            <a href="#roadmap">
               <FiMap />
-              <span>Loadmap</span>
+              <span>Roadmap</span>
             </a>
           </li>
           <li>

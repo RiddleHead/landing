@@ -59,8 +59,8 @@ const Home = () => {
       </div>
       {/* /ABOUT */}
 
-      {/* LOADMAP */}
-      <div className="beny_tm_services" id="loadmap">
+      {/* ROADMAP */}
+      <div className="beny_tm_services" id="roadmap">
         <div className="container">
           <div className="beny_tm_title_holder">
             {/* <span>Services</span> */}
@@ -77,7 +77,7 @@ const Home = () => {
       </div>
 
       </div>
-      {/* /LOADMAP */}
+      {/* /ROADMAP */}
 
       {/* TEAM */}
       <div className="beny_tm_news" id="team">
