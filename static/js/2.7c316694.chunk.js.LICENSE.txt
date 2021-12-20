@@ -45,7 +45,7 @@ object-assign
  */
 
 /*!
- * CSSPlugin 3.8.0
+ * CSSPlugin 3.9.0
  * https://greensock.com
  *
  * Copyright 2008-2021, GreenSock. All rights reserved.
@@ -55,7 +55,7 @@ object-assign
 */
 
 /*!
- * GSAP 3.8.0
+ * GSAP 3.9.0
  * https://greensock.com
  *
  * @license Copyright 2008-2021, GreenSock. All rights reserved.
@@ -65,7 +65,7 @@ object-assign
 */
 
 /*!
- * ScrollTrigger 3.8.0
+ * ScrollTrigger 3.9.0
  * https://greensock.com
  *
  * @license Copyright 2008-2021, GreenSock. All rights reserved.
@@ -99,7 +99,7 @@ PERFORMANCE OF THIS SOFTWARE.
  */
 
 /**
- * React Router DOM v6.0.2
+ * React Router DOM v6.2.1
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -110,7 +110,7 @@ PERFORMANCE OF THIS SOFTWARE.
  */
 
 /**
- * React Router v6.0.2
+ * React Router v6.2.1
  *
  * Copyright (c) Remix Software Inc.
  *
