@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import Scrollspy from "react-scrollspy";
+import Modal from "react-modal";
 import { Link } from "react-router-dom";
 import {
   FiHome,
@@ -9,8 +10,15 @@ import {
   FiLink,
 } from "react-icons/fi";
 
+Modal.setAppElement("#root");
+
 const Header = () => {
+  const [isOpenWarn, setIsOpenWarn] = useState(false);
   const [navbar, setNavbar] = useState(false);
+
+  function toggleModalWarnOne() {
+    setIsOpenWarn(!isOpenWarn);
+  }
 
   const changeBackground = () => {
     if (window.scrollY >= 80) {
@@ -77,7 +85,7 @@ const Header = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="http://13.125.103.118/randomMint">
+                  <a href onClick={toggleModalWarnOne}>
                     <span className="wrapper">
                       <span className="first">Mint Now</span>
                       <span className="second">Mint Now</span>
@@ -131,6 +139,48 @@ const Header = () => {
         </Scrollspy>
       </div>
       {/* End mobile-menu */}
+
+
+      {/* Start Modal Motion Graphy */}
+      <Modal
+            isOpen={isOpenWarn}
+            onRequestClose={toggleModalWarnOne}
+            contentLabel="My dialog"
+            className="custom-modal"
+            overlayClassName="custom-overlay"
+            closeTimeoutMS={500}
+          >
+            <div className="beny_tm_modalbox_service">
+              <button className="close-modal" onClick={toggleModalWarnOne}>
+                <img src="img/svg/cancel.svg" alt="close icon" />
+              </button>
+              {/* End close icon */}
+
+              <div className="box_inner">
+                <div className="description_wrap scrollable">
+                  <div className="popup_informations">
+                    {/* <div className="image">
+                      <img src="img/thumbs/4-3.jpg" alt="" />
+                      <div
+                        className="main"
+                        style={{
+                          backgroundImage: `url(${
+                            "img/service/1.jpg"
+                          })`,
+                        }}
+                      ></div>
+                    </div> */}
+                    <div className="description">
+                      <h3>오픈 준비중입니다!!</h3>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              {/* End box inner */}
+            </div>
+            {/* End modal box news */}
+          </Modal>
+          {/* End Modal Motion Graphy */}
     </>
   );
 };
