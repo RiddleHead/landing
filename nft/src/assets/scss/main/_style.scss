@@ -3000,7 +3000,11 @@ body.intro .loader_line:after {
 /*---------------------------------------------------*/
 /*	14) BENY MEDIA QUERIES (FOR SMALL DEVIVES)
 /*---------------------------------------------------*/
-
+@media (min-width: 1680px) {
+  .beny_tm_hero .content .job {
+    margin-left: -8vw;
+  }
+}
 @media (max-width: 1280px) {
   .beny_tm_services ul li:nth-child(1) {
     margin-right:330px;

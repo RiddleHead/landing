@@ -69,17 +69,17 @@ const ServiceAnimation = () => {
               <div className="box_inner">
                 <div className="description_wrap scrollable">
                   <div className="popup_informations">
-                    {/* <div className="image">
+                    <div className="image">
                       <img src="img/thumbs/4-3.jpg" alt="" />
                       <div
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            "img/service/1.jpg"
+                            "img/service/SB1.jpg"
                           })`,
                         }}
                       ></div>
-                    </div> */}
+                    </div>
                     <div className="description">
                       <h3>굿즈 제작 및 배포</h3>
                       <p>
@@ -164,17 +164,17 @@ const ServiceAnimation = () => {
               <div className="box_inner">
                 <div className="description_wrap scrollable">
                   <div className="popup_informations">
-                    {/* <div className="image">
+                    <div className="image">
                       <img src="img/thumbs/4-3.jpg" alt="" />
                       <div
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            "img/service/2.jpg"
+                            "img/service/SB2.jpg"
                           })`,
                         }}
                       ></div>
-                    </div> */}
+                    </div>
                     <div className="description">
                       <h3>커뮤니티 관리</h3>
                       <p>
@@ -250,17 +250,17 @@ const ServiceAnimation = () => {
               <div className="box_inner">
                 <div className="description_wrap scrollable">
                   <div className="popup_informations">
-                    {/* <div className="image">
+                    <div className="image">
                       <img src="img/thumbs/4-3.jpg" alt="" />
                       <div
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            "img/service/3.jpg"
+                            "img/service/SB3.png"
                           })`,
                         }}
                       ></div>
-                    </div> */}
+                    </div>
                     <div className="description">
                       <h3>만나서 반갑습니다!</h3>
                       <p>
@@ -337,17 +337,17 @@ const ServiceAnimation = () => {
               <div className="box_inner">
                 <div className="description_wrap scrollable">
                   <div className="popup_informations">
-                    {/* <div className="image">
+                    <div className="image">
                       <img src="img/thumbs/4-3.jpg" alt="" />
                       <div
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            "img/service/4.jpg"
+                            "img/service/SB4.jpg"
                           })`,
                         }}
                       ></div>
-                    </div> */}
+                    </div>
                     <div className="description">
                       <h3>더 멋지고, 개성 있게!</h3>
                       <p>
@@ -419,17 +419,17 @@ const ServiceAnimation = () => {
               <div className="box_inner">
                 <div className="description_wrap scrollable">
                   <div className="popup_informations">
-                    {/* <div className="image">
+                    <div className="image">
                       <img src="img/thumbs/4-3.jpg" alt="" />
                       <div
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            "img/service/4.jpg"
+                            "img/service/SB5.jpg"
                           })`,
                         }}
                       ></div>
-                    </div> */}
+                    </div>
                     <div className="description">
                       <h3>NFT 가치의 보존</h3>
                       <p>
@@ -509,17 +509,17 @@ const ServiceAnimation = () => {
               <div className="box_inner">
                 <div className="description_wrap scrollable">
                   <div className="popup_informations">
-                    {/* <div className="image">
+                    <div className="image">
                       <img src="img/thumbs/4-3.jpg" alt="" />
                       <div
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            "img/service/4.jpg"
+                            "img/service/SB6.png"
                           })`,
                         }}
                       ></div>
-                    </div> */}
+                    </div>
                     <div className="description">
                       <h3>
                         커뮤니티 코인 발행
@@ -599,17 +599,17 @@ const ServiceAnimation = () => {
               <div className="box_inner">
                 <div className="description_wrap scrollable">
                   <div className="popup_informations">
-                    {/* <div className="image">
+                    <div className="image">
                       <img src="img/thumbs/4-3.jpg" alt="" />
                       <div
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            "img/service/1.jpg"
+                            "img/service/SB1.jpg"
                           })`,
                         }}
                       ></div>
-                    </div> */}
+                    </div>
                     <div className="description">
                       <h3>굿즈 제작 및 배포</h3>  
                       <p>
@@ -686,17 +686,17 @@ const ServiceAnimation = () => {
               <div className="box_inner">
                 <div className="description_wrap scrollable">
                   <div className="popup_informations">
-                    {/* <div className="image">
+                    <div className="image">
                       <img src="img/thumbs/4-3.jpg" alt="" />
                       <div
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            "img/service/2.jpg"
+                            "img/service/SB2.jpg"
                           })`,
                         }}
                       ></div>
-                    </div> */}
+                    </div>
                     <div className="description">
                       <h3>커뮤니티 관리</h3>
                       <p>
@@ -772,17 +772,17 @@ const ServiceAnimation = () => {
               <div className="box_inner">
                 <div className="description_wrap scrollable">
                   <div className="popup_informations">
-                    {/* <div className="image">
+                    <div className="image">
                       <img src="img/thumbs/4-3.jpg" alt="" />
                       <div
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            "img/service/3.jpg"
+                            "img/service/SB3.png"
                           })`,
                         }}
                       ></div>
-                    </div> */}
+                    </div>
                     <div className="description">
                       <h3>만나서 반갑습니다!</h3>
                       <p>
@@ -858,17 +858,17 @@ const ServiceAnimation = () => {
               <div className="box_inner">
                 <div className="description_wrap scrollable">
                   <div className="popup_informations">
-                    {/* <div className="image">
+                    <div className="image">
                       <img src="img/thumbs/4-3.jpg" alt="" />
                       <div
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            "img/service/4.jpg"
+                            "img/service/SB4.jpg"
                           })`,
                         }}
                       ></div>
-                    </div> */}
+                    </div>
                     <div className="description">
                       <h3>더 멋지고, 개성 있게!</h3>
                       <p>
@@ -940,17 +940,17 @@ const ServiceAnimation = () => {
               <div className="box_inner">
                 <div className="description_wrap scrollable">
                   <div className="popup_informations">
-                    {/* <div className="image">
+                    <div className="image">
                       <img src="img/thumbs/4-3.jpg" alt="" />
                       <div
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            "img/service/4.jpg"
+                            "img/service/SB5.jpg"
                           })`,
                         }}
                       ></div>
-                    </div> */}
+                    </div>
                     <div className="description">
                       <h3>NFT 가치의 보존</h3>
                       <p>
@@ -1022,17 +1022,17 @@ const ServiceAnimation = () => {
               <div className="box_inner">
                 <div className="description_wrap scrollable">
                   <div className="popup_informations">
-                    {/* <div className="image">
+                    <div className="image">
                       <img src="img/thumbs/4-3.jpg" alt="" />
                       <div
                         className="main"
                         style={{
                           backgroundImage: `url(${
-                            "img/service/4.jpg"
+                            "img/service/SB6.png"
                           })`,
                         }}
                       ></div>
-                    </div> */}
+                    </div>
                     <div className="description">
                       <h3>
                         커뮤니티 코인 발행
