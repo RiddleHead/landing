@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/riddlehead.net/static/css/main.da0f9d74.chunk.css",
-    "main.js": "/riddlehead.net/static/js/main.6f5c85ce.chunk.js",
-    "runtime-main.js": "/riddlehead.net/static/js/runtime-main.4631a29e.js",
-    "static/css/2.953a0617.chunk.css": "/riddlehead.net/static/css/2.953a0617.chunk.css",
-    "static/js/2.7c316694.chunk.js": "/riddlehead.net/static/js/2.7c316694.chunk.js",
-    "static/js/3.2fecf4e5.chunk.js": "/riddlehead.net/static/js/3.2fecf4e5.chunk.js",
-    "index.html": "/riddlehead.net/index.html",
-    "static/js/2.7c316694.chunk.js.LICENSE.txt": "/riddlehead.net/static/js/2.7c316694.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/riddlehead.net/static/media/neodgm.4356fa0b.woff",
-    "static/media/slick-theme.css": "/riddlehead.net/static/media/slick.c94f7671.ttf"
+    "main.css": "/static/css/main.5cc94cfa.chunk.css",
+    "main.js": "/static/js/main.d0e0d7bb.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.222f1991.js",
+    "static/css/2.3b1921d0.chunk.css": "/static/css/2.3b1921d0.chunk.css",
+    "static/js/2.7c316694.chunk.js": "/static/js/2.7c316694.chunk.js",
+    "static/js/3.2fecf4e5.chunk.js": "/static/js/3.2fecf4e5.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.7c316694.chunk.js.LICENSE.txt": "/static/js/2.7c316694.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/neodgm.4356fa0b.woff",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.4631a29e.js",
-    "static/css/2.953a0617.chunk.css",
+    "static/js/runtime-main.222f1991.js",
+    "static/css/2.3b1921d0.chunk.css",
     "static/js/2.7c316694.chunk.js",
-    "static/css/main.da0f9d74.chunk.css",
-    "static/js/main.6f5c85ce.chunk.js"
+    "static/css/main.5cc94cfa.chunk.css",
+    "static/js/main.d0e0d7bb.chunk.js"
   ]
 }
