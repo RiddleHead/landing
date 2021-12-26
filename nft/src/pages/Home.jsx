@@ -36,11 +36,6 @@ const Home = () => {
               "img/service/rmbg_pc.png"
             })`,
           }}>
-        <div className="roadmap_star" style={{
-            backgroundImage: `url(${
-              "img/service/rmbg_star.gif"
-            })`,
-          }}>
       {/* ABOUT */}
       <div className="beny_tm_about" id="about">
         <div className="container">
@@ -58,7 +53,12 @@ const Home = () => {
         </div>
       </div>
       {/* /ABOUT */}
-
+      
+      <div className="roadmap_star" style={{
+            backgroundImage: `url(${
+              "img/service/rmbg_star.gif"
+            })`,
+          }}>
       {/* ROADMAP */}
       <div className="beny_tm_services" id="roadmap">
         <div className="container">
@@ -74,10 +74,9 @@ const Home = () => {
           <Service />
         </div>
        </div>
-      </div>
-
-      </div>
       {/* /ROADMAP */}
+      
+      </div>
 
       {/* TEAM */}
       <div className="beny_tm_news" id="team">
@@ -96,6 +95,7 @@ const Home = () => {
       </div>
       {/* /TEAM */}
 
+      </div>
       {/* TESTIMONIALS */}
       {/* <div className="beny_tm_testimonials">
         <div className="container">
