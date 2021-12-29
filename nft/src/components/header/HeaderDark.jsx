@@ -85,7 +85,8 @@ const Header = () => {
                   </a>
                 </li>
                 <li>
-                  <a href onClick={toggleModalWarnOne}>
+                  {/* <a href onClick={toggleModalWarnOne}> */}
+                  <a href="https://crayonbets.com/RiddleHeadMint">
                     <span className="wrapper">
                       <span className="first">Mint Now</span>
                       <span className="second">Mint Now</span>
